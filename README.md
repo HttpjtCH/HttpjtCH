@@ -22,7 +22,7 @@ Sou apaixonado por Design e estou sempre buscando uma forma de melhorar a experi
 
 ## Trabalhos mais recentes:
 
--[Landing Page - Stockz+](https://stockzplus.com/)<br/>
+- [Landing Page - Stockz+](https://stockzplus.com/)<br/>
 Nesse projeto eu utilizei: HTML, CSS e JavaScript.
 
 - [Landing page - Code4Solution](https://www.code4solution.com.br/)<br/>
